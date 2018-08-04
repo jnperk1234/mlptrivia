@@ -1,0 +1,76 @@
+  
+
+.jumbotron {
+  background: linear-gradient(rgba(243, 230, 241, 0.247), rgba(194, 208, 248, 0.39)), url('../../img/mlpbg.jpg');
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; 
+  box-sizing: border-box;
+  height: 800px;
+  background-color: rgba(0, 0, 0, 0);
+}
+
+#header {
+  background: #d42e95a8;
+  font-family: 'Handlee', cursive;
+  color: cornsilk;
+  font-weight: 900;
+  letter-spacing: 0.1em;
+  border-radius: 15px;
+}
+
+.main-button-container {
+  margin-top: 175px;
+  max-width: 610px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.timer-p {
+  margin-top: 40px;
+  font-weight: 900;
+}
+
+.answer:hover {
+  background: pink;
+}
+
+.answer {
+  padding-top: 7px;
+  height: 45px;
+  color: black;
+  padding-left: 14px;
+  background-color: white;
+  border-radius: 4px;
+}
+
+img {
+  max-width: 400px;
+}
+
+.img-wrong {
+  margin-top: 40px;
+}
+
+.first-answer {
+  margin-top: 40px;
+}
+
+.reset-button {
+  margin-top: 40px;
+}
+
+.summary-correct {
+  margin-top: 40px;
+}
+
+body {
+  /* background: linear-gradient(rgba(206, 61, 186, 0.247), rgba(20, 146, 230, 0.39));  */
+  color: black
+  /* font-weight: 800;
+  font-size: 2.5em; */
+  
+
+
+}

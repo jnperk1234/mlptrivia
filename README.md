@@ -1,1 +1,2 @@
-# mlptrivia
+# TriviaGame
+# TriviaGame
